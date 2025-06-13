@@ -40,8 +40,3 @@ The goal is to predict whether a tweet refers to a real disaster or not.
 
 ---
 
-##  How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/libagi6/disaster-tweets-nlp.git
